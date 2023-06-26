@@ -13,3 +13,15 @@ Children:
     Type: BaseDataVariableType
     DataType: Int32
     Value: 0
+- Name: Motor1
+  Id: g=c63b4390be3b1af94ae626da0d1fa019
+  Supertype: Motor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Acelebration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
